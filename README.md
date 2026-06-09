@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hanna</h1>
 <h3 align="center">Developer who leads with curiosity, executes with care, and grows with every challenge.</h3>
 
-- 🔭 I’m currently working on **City-scrapers**
+- 🔭 I’m currently working on [City-scrapers](https://github.com/akhhanna20/city-scrapers-omaha)
 
 - 🌱 I’m currently learning **Python and practising testing**
 
