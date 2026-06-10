@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [City-scrapers](https://github.com/akhhanna20/city-scrapers-omaha)
 
-- 🌱 I’m currently learning **Python and practising testing**
+- 🌱 I’m currently learning **Python** and writing spiders
 
 - 📫 How to reach me **akhramchukhanna@gmail.com**
 
