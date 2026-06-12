@@ -40,10 +40,10 @@ My contribution focuses on the building and maintaining Python spiders that craw
 
 ---
 
-### 📚 Course Builder *(private)*
-> *From idea to curriculum*
+### 📚 Course Builder AI *(private)*
+> *From idea to curriculum. AI-powered application*
 
-A full-stack **JavaScript** application for creating, organizing, and managing online course content. Built with a focus on clean UX and a flexible content model that lets instructors structure lessons, modules, and resources without friction.
+A full-stack **JavaScript** AI-powered application for creating, organizing, and managing online course content. Built with a focus on clean UX and a flexible content model that lets instructors structure lessons, modules, and resources without friction.
 
 - **What it does:** End-to-end course creation — from outline to published curriculum
 - **Key features:** Module management, drag-and-drop lesson ordering, progress tracking
