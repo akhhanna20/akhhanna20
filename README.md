@@ -1,6 +1,8 @@
 <div align="center">
-
-\```
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6A9FB5&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Hanna;Full-Stack+Developer;Curious+%7C+Careful+%7C+Growing" />
+</div>
+<pre>
 ╔═══════════════════════════════════════════════════════════╗
 ║                                                           ║
 ║    { } while (curious)  →  build → learn → repeat         ║
@@ -9,8 +11,7 @@
 ║                    Full-Stack Developer                   ║
 ║                                                           ║
 ╚═══════════════════════════════════════════════════════════╝
-\```
-
+</pre>
 *Developer who leads with curiosity, executes with care, and grows with every challenge.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hanna_Akhramchuk-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/hanna-akhramchuk)
@@ -28,11 +29,11 @@ https://github.com/City-Bureau
 
 Public meetings shouldn't be a mystery. **City Scrapers** is an open-source initiative that automatically collects and standardizes public meeting data from local government websites — making civic information accessible to everyone.
 
-My contribution focuses on the **Omaha** chapter: building and maintaining Python spiders that crawl city and county sources, parse inconsistent HTML structures, and output clean, structured event data.
+My contribution focuses on the building and maintaining Python spiders that crawl city and county sources, parse inconsistent HTML structures, and output clean, structured event data.
 
-- **What it does:** Scrapes public meeting schedules from Omaha-area government sites
+- **What it does:** Scrapes public meeting schedules from government sites
 - **Why it matters:** Makes local civic data searchable, consistent, and machine-readable
-- **My role:** Spider development, QA, data validation
+- **My role:** Spider development, QA, data validation and testing
 
 **Stack:** `Python` · `Scrapy` · `pytest` · `GitHub Actions`
 
@@ -44,13 +45,13 @@ My contribution focuses on the **Omaha** chapter: building and maintaining Pytho
 ### 📚 Course Builder *(private)*
 > *From idea to curriculum, structured.*
 
-A full-stack application for creating, organizing, and managing online course content. Built with a focus on clean UX and a flexible content model that lets instructors structure lessons, modules, and resources without friction.
+A full-stack **Java Script** application for creating, organizing, and managing online course content. Built with a focus on clean UX and a flexible content model that lets instructors structure lessons, modules, and resources without friction.
 
 - **What it does:** End-to-end course creation — from outline to published curriculum
 - **Key features:** Module management, drag-and-drop lesson ordering, progress tracking
 - **Highlights:** RESTful API design, auth flow, responsive UI
 
-**Stack:** `React` · `Node.js` · `Express` · `PostgreSQL` · `Tailwind CSS`
+**Stack:** `React` · `Node.js` · `Express` · `MongoDB` · `Tailwind CSS` `Playwright` `OpenAI`
 
 ---
 
@@ -73,7 +74,6 @@ A full-stack application for creating, organizing, and managing online course co
 
 ## 🌱 Currently
 
-- 🔭 Contributing to [City Scrapers Omaha](https://github.com/akhhanna20/city-scrapers-omaha)
 - 🐍 Deepening my Python skills — writing spiders and learning data pipelines
 - 📬 Open to collaboration — reach me at **akhramchukhanna@gmail.com**
 
