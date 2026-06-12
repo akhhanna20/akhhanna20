@@ -21,10 +21,9 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 I'm currently working on Projects
 
 ### 🏙️ City Bureau
-https://github.com/City-Bureau
 > *Open civic data*
 
 Public meetings shouldn't be a mystery. **City Scrapers** is an open-source initiative that automatically collects and standardizes public meeting data from local government websites — making civic information accessible to everyone.
@@ -37,21 +36,20 @@ My contribution focuses on the building and maintaining Python spiders that craw
 
 **Stack:** `Python` · `Scrapy` · `pytest` · `GitHub Actions`
 
-[![View Project](https://img.shields.io/badge/GitHub-City_Scrapers_Omaha-181717?style=flat&logo=github)](https://github.com/akhhanna20/city-scrapers-omaha)
 [![Org](https://img.shields.io/badge/GitHub-City_Bureau_Org-181717?style=flat&logo=github)](https://github.com/City-Bureau)
 
 ---
 
 ### 📚 Course Builder *(private)*
-> *From idea to curriculum, structured.*
+> *From idea to curriculum*
 
-A full-stack **Java Script** application for creating, organizing, and managing online course content. Built with a focus on clean UX and a flexible content model that lets instructors structure lessons, modules, and resources without friction.
+A full-stack **JavaScript** application for creating, organizing, and managing online course content. Built with a focus on clean UX and a flexible content model that lets instructors structure lessons, modules, and resources without friction.
 
 - **What it does:** End-to-end course creation — from outline to published curriculum
 - **Key features:** Module management, drag-and-drop lesson ordering, progress tracking
 - **Highlights:** RESTful API design, auth flow, responsive UI
 
-**Stack:** `React` · `Node.js` · `Express` · `MongoDB` · `Tailwind CSS` `Playwright` `OpenAI`
+**Stack:** `React` · `Node.js` · `Express` · `MongoDB` · `Tailwind CSS` · `Playwright` · `OpenAI`
 
 ---
 
