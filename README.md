@@ -44,7 +44,7 @@ My contribution focuses on building and maintaining Python spiders that crawl ci
 ---
 
 ### 📚 Course Builder AI *(private)*
-> **From idea to curriculum, structured and AI-powered.*
+> *From idea to curriculum, structured and AI-powered.*
 
 A full-stack **JavaScript** AI-powered application for creating, organizing, and managing online course content. Built with a focus on clean UX and a flexible content model that lets instructors structure lessons, modules, and resources without friction.
 
@@ -55,7 +55,7 @@ A full-stack **JavaScript** AI-powered application for creating, organizing, and
 **Stack:**
 ![React](https://img.shields.io/badge/React-D96B8D?style=for-the-badge&logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-D96B8D?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-D96B8D?style=for-the-badge&logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-D96B8D?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-D96B8D?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-D96B8D?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-D96B8D?style=for-the-badge&logo=playwright&logoColor=white)
@@ -67,7 +67,6 @@ A full-stack **JavaScript** AI-powered application for creating, organizing, and
 
 ![React](https://img.shields.io/badge/React-5B8DD9?style=for-the-badge&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-5B8DD9?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-5B8DD9?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5B8DD9?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-5B8DD9?style=for-the-badge&logo=javascript&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-5B8DD9?style=for-the-badge&logo=tailwindcss&logoColor=white)
