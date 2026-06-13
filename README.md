@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6A9FB5&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Hanna;Full-Stack+Developer;Curious+%7C+Careful+%7C+Growing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6A9FB5&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Hanna;Curious+%7C+Careful+%7C+Growing" />
 </div>
 <div align="center">
 <pre>
@@ -7,7 +7,6 @@
 ║                                                                      ║
 ║             { } while (curious) → build → learn → repeat             ║
 ║                                                                      ║
-║             H  A  N  N  A    A  K  H  R  A  M  C  H  U  K            ║
 ║                        Full-Stack Developer                          ║
 ║                                                                      ║
 ╚══════════════════════════════════════════════════════════════════════╝
