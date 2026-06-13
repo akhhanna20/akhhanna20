@@ -94,9 +94,10 @@ A full-stack **JavaScript** AI-powered application for creating, organizing, and
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=akhhanna20&hide_border=true&ring=D96B8D&fire=E8956A&currStreakLabel=D96B8D)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhhanna20&layout=compact&hide_border=true&title_color=D96B8D&include_orgs=true&langs_count=3)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhhanna20&layout=compact&hide_border=true&title_color=5B8DD9)
 
 </div>
+
 
 ## 🌱 Currently
 
