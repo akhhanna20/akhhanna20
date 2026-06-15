@@ -5,7 +5,7 @@
 <pre>
 ╔══════════════════════════════════════════════════════════════════════╗
 ║                                                                      ║
-║             { } while (curious) → build → learn → repeat             ║
+║              while (curious) { build → learn → repeat }              ║
 ║                                                                      ║
 ║                        Full-Stack Developer                          ║
 ║                                                                      ║
