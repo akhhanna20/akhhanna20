@@ -48,7 +48,7 @@ My contribution focuses on building and maintaining Python spiders that crawl ci
 
 A full-stack **JavaScript** AI-powered application for creating, organizing, and managing online course content. Built with a focus on clean UX and a flexible content model that lets instructors structure lessons, modules, resources without friction - with AI-assisted auditing and direct GitHub integration for saving and versioning curriculum.
 
-- **What it does:** End-to-end course creation — rom outline to publishing a structured curriculum in a GitHub repo
+- **What it does:** End-to-end course creation — from outline to publishing a structured curriculum in a GitHub repo
 - **Key features:** Module & lesson management, AI course auditing & revision, GitHub repo saving, contribution support, and a single chatbot with tool calling
 - **Highlights:** RESTful API design, auth flow, responsive UI
 
